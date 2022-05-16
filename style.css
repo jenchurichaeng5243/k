@@ -1,0 +1,27 @@
+body{
+    background-image: url("background1.jpg");
+}
+
+.div1{
+    width:100%;
+    text-align:left;
+}
+
+.button{
+    float:right;
+}
+.head{
+display:inline;
+}
+
+#start{
+    width:10%;
+    font-size: 20px;
+}
+
+canvas{
+    box-shadow: 0px 0px 20px #91eecc;
+    border-style:dashed;
+    border-width:3px;
+    border-radius: 2px;;
+}
